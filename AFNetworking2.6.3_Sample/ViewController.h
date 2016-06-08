@@ -11,5 +11,14 @@
 @interface ViewController : UIViewController
 
 
+- (IBAction)btnSimplePost:(id)sender;
+
+
+- (IBAction)btnMultipartData:(id)sender;
+
+
+- (IBAction)btnImageDownload:(id)sender;
+
+
 @end
 
